@@ -10,7 +10,7 @@ Document
 
 ## Pasul 1
 1) In browser deschide pagina [Site VisitHD](http://www.visithd.ro).
-   ![alt text](images-deploy/poza.png "VisitHD")
+   ![alt text](poza.png "VisitHD")
    
 ## Pasul 2
    ```sh
